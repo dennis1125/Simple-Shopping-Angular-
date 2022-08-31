@@ -1,150 +1,29 @@
-Contribution: 2016-12-04 20:00
+# RestaurentApp
 
-Contribution: 2016-12-21 20:00
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.10.
 
-Contribution: 2016-12-21 20:01
+## CLone the Repository
+```
+https://github.com/sibashish99/Restaurent_Application.git
 
-Contribution: 2017-01-01 20:00
+```
 
-Contribution: 2017-01-03 20:00
+## Install node modules
+```
+npm install
 
-Contribution: 2017-01-03 20:01
+```
 
-Contribution: 2017-01-07 20:00
+## Development server
 
-Contribution: 2017-01-07 20:01
+```
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+```
 
-Contribution: 2017-01-10 20:00
+## Json server
 
-Contribution: 2017-01-11 20:00
+```
+Run `npx json-server --watch db.json` for a dev server. Navigate to `http://localhost:3000/`. The app will automatically reload if you change any of the source files.
+```
 
-Contribution: 2017-01-11 20:01
-
-Contribution: 2017-01-13 20:00
-
-Contribution: 2017-01-14 20:00
-
-Contribution: 2017-01-24 20:00
-
-Contribution: 2017-01-24 20:01
-
-Contribution: 2017-01-30 20:00
-
-Contribution: 2017-01-30 20:01
-
-Contribution: 2017-02-02 20:00
-
-Contribution: 2017-02-04 20:00
-
-Contribution: 2017-02-04 20:01
-
-Contribution: 2017-02-13 20:00
-
-Contribution: 2017-02-25 20:00
-
-Contribution: 2017-02-25 20:01
-
-Contribution: 2017-02-27 20:00
-
-Contribution: 2017-02-27 20:01
-
-Contribution: 2017-03-03 20:00
-
-Contribution: 2017-03-03 20:01
-
-Contribution: 2017-03-27 20:00
-
-Contribution: 2017-04-06 20:00
-
-Contribution: 2017-04-06 20:01
-
-Contribution: 2017-04-07 20:00
-
-Contribution: 2017-04-07 20:01
-
-Contribution: 2017-04-10 20:00
-
-Contribution: 2017-04-13 20:00
-
-Contribution: 2017-04-13 20:01
-
-Contribution: 2017-04-21 20:00
-
-Contribution: 2017-04-21 20:01
-
-Contribution: 2017-04-24 20:00
-
-Contribution: 2017-04-24 20:01
-
-Contribution: 2017-04-26 20:00
-
-Contribution: 2017-04-26 20:01
-
-Contribution: 2017-05-15 20:00
-
-Contribution: 2017-05-16 20:00
-
-Contribution: 2017-05-26 20:00
-
-Contribution: 2017-05-28 20:00
-
-Contribution: 2017-05-29 20:00
-
-Contribution: 2017-05-29 20:01
-
-Contribution: 2017-06-05 20:00
-
-Contribution: 2017-06-05 20:01
-
-Contribution: 2017-06-08 20:00
-
-Contribution: 2017-06-09 20:00
-
-Contribution: 2017-06-10 20:00
-
-Contribution: 2017-06-25 20:00
-
-Contribution: 2017-06-25 20:01
-
-Contribution: 2017-06-27 20:00
-
-Contribution: 2017-06-27 20:01
-
-Contribution: 2017-06-28 20:00
-
-Contribution: 2017-06-28 20:01
-
-Contribution: 2017-07-04 20:00
-
-Contribution: 2017-07-12 20:00
-
-Contribution: 2017-07-12 20:01
-
-Contribution: 2017-07-17 20:00
-
-Contribution: 2017-07-25 20:00
-
-Contribution: 2017-07-25 20:01
-
-Contribution: 2017-08-11 20:00
-
-Contribution: 2017-08-11 20:01
-
-Contribution: 2017-08-16 20:00
-
-Contribution: 2017-08-19 20:00
-
-Contribution: 2017-08-19 20:01
-
-Contribution: 2017-08-22 20:00
-
-Contribution: 2017-08-22 20:01
-
-Contribution: 2017-08-27 20:00
-
-Contribution: 2017-08-30 20:00
-
-Contribution: 2017-08-30 20:01
-
-Contribution: 2017-09-01 20:00
 
